@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ChelseaApp</string>
+    <string name="app_name">Chelsea App</string>
+    <string name="bg_splash">backgroundSplash</string>
+    <string name="sponsor">sponsor1</string>
 </resources>

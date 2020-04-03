@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/custom_ripple"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/ava_list_player"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="16dp"
+        android:scaleType="fitXY"
+        android:backgroundTint="@color/colorPrimary"
+        android:background="@drawable/bg_list_shape"
+        android:layout_marginRight="16dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@id/ava_list_player"
+        android:layout_toRightOf="@id/ava_list_player"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_player_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/msemibold"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimary"
+            tools:text="@string/player_name"/>
+
+        <TextView
+            android:id="@+id/tv_player_position"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="@font/mregular"
+            android:maxLines="2"
+            android:textColor="@android:color/black"
+            tools:text="@string/player_position"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

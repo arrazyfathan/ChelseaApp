@@ -2,6 +2,7 @@ package com.dicoding.chelseaapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.Manifest;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
@@ -45,7 +46,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void goToSchedule(View view) {
-        Toast.makeText(this, "Sedang dalam pengembangan", Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(MainActivity.this, MatchFixturesActivity.class);
+        startActivity(intent);
     }
 
     public void goToThophy(View view) {
@@ -60,6 +62,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void goToPartners(View view){
         Intent intent = new Intent(MainActivity.this, MenuPartners.class);
+        startActivity(intent);
+    }
+
+    public void goToWebView(View view) {
+        Intent intent = new Intent(MainActivity.this, ClubHistoryActivity.class);
         startActivity(intent);
     }
 }

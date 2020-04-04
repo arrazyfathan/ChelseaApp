@@ -4,37 +4,7 @@
 
     <!--    Montserrat-->
     <font
-        android:font="@font/mblack"
-        />
-    <font
-        android:font="@font/mblackitalic"
-        />
-    <font
         android:font="@font/mbold"
-        />
-    <font
-        android:font="@font/mbolditalic"
-        />
-    <font
-        android:font="@font/mextrabold"
-        />
-    <font
-        android:font="@font/mextrabolditalic"
-        />
-    <font
-        android:font="@font/mextralight"
-        />
-    <font
-        android:font="@font/mexralightitalic"
-        />
-    <font
-        android:font="@font/mitalic"
-        />
-    <font
-        android:font="@font/mlight"
-        />
-    <font
-        android:font="@font/mlightitalic"
         />
     <font
         android:font="@font/mmedium"
@@ -43,65 +13,18 @@
         android:font="@font/mregular"
         />
     <font
-        android:font="@font/mmediumitalic"
-        />
-    <font
         android:font="@font/msemibold"
-        />
-    <font
-        android:font="@font/msemibolditalic"
         />
 <!--    <font-->
 <!--        android:font="@font/MontserratThin"-->
 <!--        />-->
-    <font
-        android:font="@font/mthinitalic"
-        />
-
 
     <!--    Arial-->
     <font
-        android:font="@font/arialbi"
-        />
-    <font
-        android:font="@font/arialblack"
-        />
-    <font
         android:font="@font/arialbold"
         />
-    <font
-        android:font="@font/arialboldmt"
-        />
-    <font
-        android:font="@font/arialcebolditalic"
-        />
-    <font
-        android:font="@font/arialceitalic"
-        />
-    <font
-        android:font="@font/arialceblack"
-        />
-    <font
-        android:font="@font/arialcemedium"
-        />
-    <font
-        android:font="@font/arialitalicmt"
-        />
-    <font
-        android:font="@font/ariallight"
-        />
-    <font
-        android:font="@font/ariallightitalic"
-        />
-    <font
-        android:font="@font/arialmtbold"
-        />
-    <font
-        android:font="@font/arialmedium"
-        />
-    <font
-        android:font="@font/arialmediumitalic"
-        />
+
+
     <font
         android:font="@font/arialregular"
         />

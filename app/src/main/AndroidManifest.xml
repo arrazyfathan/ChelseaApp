@@ -11,12 +11,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MatchFixturesActivity"></activity>
+        <activity android:name=".MenuTrophy"></activity>
+        <activity android:name=".MatchFixturesActivity" />
         <activity android:name=".ClubHistoryActivity" />
         <activity android:name=".MenuPartners" />
         <activity android:name=".About" />
         <activity android:name=".PlayerDetail" />
-        <activity android:name=".MenuThrophy" />
         <activity android:name=".MenuPlayer" />
         <activity android:name=".MainActivity" />
         <activity android:name=".SplashScreen">

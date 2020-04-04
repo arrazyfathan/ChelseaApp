@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void goToThophy(View view) {
-        Intent intent = new Intent(MainActivity.this, PlayerDetail.class);
+        Intent intent = new Intent(MainActivity.this, MenuTrophy.class);
         startActivity(intent);
     }
 

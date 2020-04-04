@@ -26,6 +26,7 @@ public class SplashScreen extends AppCompatActivity {
                     e.printStackTrace();
                 } finally {
                     startActivity(new Intent(SplashScreen.this, MainActivity.class));
+                    SplashScreen.this.finish();
                 }
             }
         };

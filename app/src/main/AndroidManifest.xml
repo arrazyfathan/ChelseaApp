@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PlayerDetail"></activity>
+        <activity android:name=".MenuPartners"></activity>
+        <activity android:name=".About" />
+        <activity android:name=".PlayerDetail" />
         <activity android:name=".MenuThrophy" />
         <activity android:name=".MenuPlayer" />
         <activity android:name=".MainActivity" />

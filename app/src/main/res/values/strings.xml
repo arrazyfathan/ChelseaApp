@@ -2,35 +2,12 @@
     <string name="app_name">Chelsea App</string>
     <string name="bg_splash">backgroundSplash</string>
     <string name="sponsor">sponsor1</string>
-    <string name="welcome">Welcome</string>
+    <string name="welcome">Welcome to</string>
     <string name="next_match">Next Match</string>
     <string name="trophy">Trophy</string>
     <string name="match_schedule">Match Schedule</string>
     <string name="player_name">Nama Pemain</string>
     <string name="player_position">Posisi pemain</string>
-
-
-    <string name="player_bio">Kepa Arrizabalaga signed for Chelsea from Athletic Bilbao in August 2018. \n
-                    \n
-                    "The Spanish international goalkeeper signed a seven-year contract at Stamford Bridge and ended his first season with silverware as we beat Arsenal in the Europa League final. He played 54 games in all competitions, including 36 in the Premier League. In total he kept an impressive 23 clean sheets as he quickly adapted to the rigours of English football. \n" +
-                    "\n" +
-                    "Kepa's performances for the Blues have also earned him regular playing time for Spain, the country of his birth in October 1994. \n" +
-                    "\n" +
-                    "Quick and agile, Kepa possesses fantastic reflexes and has developed his all-round game since he established himself as Athletic Bilbao’s first-choice ‘keeper. A great shot-stopper, he is confident with the ball at his feet and capable of playing out from the back, even under pressure.\n" +
-                    "\n" +
-                    "Kepa made his debut for the Blues just a few days after signing in our opening-day win at Huddersfield in August 2018. The keeper looked assured when called into action and kept a clean sheet in a 3-0 victory.\n" +
-                    "\n" +
-                    "He was an ever-present in the Premier League during the first half of the 2018/19 season and kept nine clean sheets. After Christmas we reached the Carabao Cup final with Kepa starring in the penalty shoot-out success over Tottenham in the semis, a feat he would repeat at the same stage of the Europa League against Eintracht Frankfurt when he decisively kept out two penalties to send us to Baku. Kepa's impressive form towards the finale of our domestic campaign played an important role in securing a third-placed Premier League finish. \n" +
-                    "\n" +
-                    "Born in Ondarroa, a Basque seaside town, Kepa joined the Athletic academy at the age of nine and after gaining experience at their fourth-tier feeder club Basconia, he appeared regularly for Bilbao’s B-team, earning international recognition at youth level due to the quality of his displays.\n" +
-                    "\n" +
-                    "Kepa was loaned to SD Ponferradina, a Spanish second division side, in January 2015 and having made his debut against Racing Santander, he started on a regular basis, keeping seven clean sheets in the process as the team missed out on the play-offs by just one point. He established himself in another second-tier loan move with Real Valladolid the next season, before returning to Bilbao for the 2016/17 campaign.\n" +
-                    "\n" +
-                    "Although not initially viewed as number one, he made his first appearance in an away game at Deportivo La Coruna, keeping a clean sheet in a 1-0 win. He went on to make over 20 appearances throughout a season which ended with him representing Spain at the European Under-21 Championship.\n" +
-                    "\n" +
-                    "Last season, Kepa’s consistently impressive displays earned him regular plaudits inside and outside the club. He saved two of the three penalties he faced, as well as making the third-highest number of saves in the Spanish top flight and successfully executing more long-range passes – 368 – than any other goalkeeper in La Liga.\n" +
-                    "\n" +
-                    "His impressive form at club level led to a debut for the senior Spain side, which came in a 5-0 win over Costa Rica last November. He was duly named in the 23-man squad for the World Cup in Russia, and by 2019 was a regular between the posts for his country. </string>
     <string name="detail_name">Keppa Arrizabalaga</string>
     <string name="position">POSITION :</string>
     <string name="detail_position">GK</string>
@@ -42,4 +19,9 @@
     <string name="detail_weight">28</string>
     <string name="detail_number">1</string>
     <string name="label_bio">Player Biography</string>
+    <string name="history">History</string>
+    <string name="nama_user">Ar Razy Fathan Rabbani</string>
+    <string name="user_email">arrazy.rabbani266@gmail.com</string>
+    <string name="label_email">Email Me</string>
+    <string name="label_club_partners">Club Partners</string>
 </resources>

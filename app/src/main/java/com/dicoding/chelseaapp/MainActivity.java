@@ -52,4 +52,14 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, PlayerDetail.class);
         startActivity(intent);
     }
+
+    public void goToAbout(View view) {
+        Intent intent = new Intent(MainActivity.this, About.class);
+        startActivity(intent);
+    }
+
+    public void goToPartners(View view){
+        Intent intent = new Intent(MainActivity.this, MenuPartners.class);
+        startActivity(intent);
+    }
 }
